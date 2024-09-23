@@ -1,0 +1,102 @@
+body{
+    background-color: #16085b
+  }
+  .grid-container1{
+    display: grid;
+    grid-template-columns: 250px 515px 250px;
+    padding: 10px;
+    column-gap: 15px
+  }
+  .grid-item1{
+    border-bottom: 2px solid green;
+    padding: 30px;
+    height: 100px;
+    background-color: green;
+    
+  }
+  .grid-item2{
+    border: 1px solid;
+    padding: 30px;
+    height: 100px;
+    background-color: green;
+    
+  }
+  .grid-item3{
+    border: 1px solid;
+    padding: 30px;
+    height: 100px;
+    background-color: red
+    
+  }
+  .grid-container2{
+    display: grid;
+    grid-template-columns: 250px 250px 250px 250px;
+    padding: 10px;
+    column-gap: 15px
+  }
+  .grid-item4{
+    padding: 30px;
+    height: 122px;
+    background-color: green;
+    margin-top:-20px;
+    
+  }
+  .grid-item5{
+    border: 1px solid;
+    padding: 30px;
+    height: 100px;
+    background-color: yellow;
+    
+  }
+  .grid-item6{
+    border: 1px solid;
+    padding: 30px;
+    height: 100px;
+    background-color: red
+    
+  }
+  .grid-item7{
+    padding: 30px;
+    height: 100px;
+    background-color: green;
+    
+  }
+  .grid-container3{
+    display: grid;
+    grid-template-columns: 250px 250px 250px 250px;
+    padding: 10px;
+    column-gap: 15px
+  }
+  .grid-item8{
+    padding: 30px;
+    height: 121.5px;
+    background-color: green;
+    margin-top:-20px;
+    
+    
+  }
+  .grid-item9{
+    border: 1px solid;
+    padding: 30px;
+    height: 100px;
+    background-color: red;
+    
+  }
+  .grid-item10{
+    border: 1px solid;
+    padding: 30px;
+    height: 100px;
+    background-color: yellow
+    
+  }
+  .grid-item11{
+    padding: 30px;
+    height: 130px;
+    background-color: green;
+    margin-top: -30px
+    
+  }
+  
+  
+  
+  
